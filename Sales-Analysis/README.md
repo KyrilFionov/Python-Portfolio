@@ -21,6 +21,6 @@ In this project I analyze and answer business questions about 12 months worth of
 * Plotting graphs to visualize results
 * Formatting graphs
 
-## How to navidate
+## How to navigate
 1. Dataset folder contains input files for the analysis
 2. Sales_Analysis_Github.ipynb file contains Python script
