@@ -11,7 +11,6 @@ In this project I analyze and answer business questions about 12 months worth of
 * What time should we display advertisemens to maximize the likelihood of customer’s buying product?
 
 ## Methods and Functions used
-Pandas:
 * Reading all files from single folder
 * Treating NaN values
 * Removing rows based on a condition
@@ -21,3 +20,7 @@ Pandas:
 * Using groupby to perform aggregate analysis
 * Plotting graphs to visualize results
 * Formatting graphs
+
+## How to navidate
+1. Dataset folder contains input files for the analysis
+2. Sales_Analysis_Github.ipynb file contains Python script
