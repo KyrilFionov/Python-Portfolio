@@ -15,7 +15,6 @@ Primary goal of this projects was to create a Dash dashboard.
 
 ## Methods and Functions used
 PANDAS
-* Reading all files from single folder
 * Treating NaN values (filling empty fields)
 * Changing column types (to_numeric, to_datetime, astype)
 * Adding columns
@@ -28,5 +27,5 @@ PLOTLY/DASH
 * Creating callback functions (dynamic filters)
 
 ## How to navigate
-1. Dataset folder contains input file for the analysis
+1. OECD_Unemployment_Analysis_Input.csv is an input file for the analysis
 2. OECD_Unemployment_Analysis_Github.ipynb file contains Python script
