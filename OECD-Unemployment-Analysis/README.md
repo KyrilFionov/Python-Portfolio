@@ -28,5 +28,5 @@ PLOTLY/DASH
 * Creating callback functions (dynamic filters)
 
 ## How to navigate
-1. Dataset folder contains input files for the analysis
-2. Sales_Analysis_Github.ipynb file contains Python script
+1. Dataset folder contains input file for the analysis
+2. OECD_Unemployment_Analysis_Github.ipynb file contains Python script
