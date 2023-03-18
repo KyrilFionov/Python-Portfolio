@@ -29,3 +29,4 @@ PLOTLY/DASH
 ## How to navigate
 1. OECD_Unemployment_Analysis_Input.csv is an input file for the analysis
 2. OECD_Unemployment_Analysis_Github.ipynb file contains Python script
+3. Run the script and click the output link to open the Dashboard in your browser
